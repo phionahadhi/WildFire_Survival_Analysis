@@ -1,0 +1,22 @@
+# Data files -- large, and often shouldn't be redistributed via git
+*.csv
+!submission.csv
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment / virtual env folders
+venv/
+env/
+.venv/
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Pickled models (can be large; uncomment if you don't want to track them)
+# *.pkl
