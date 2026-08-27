@@ -86,10 +86,10 @@ A **Random Survival Forest** (`scikit-survival`) was benchmarked against the Cox
 ## 🚀 Running This Project
 
 ```bash
-git clone <your-repo-url>
-cd wildfire-survival-analysis
+git clone https://github.com/phionahadhi/WildFire_Survival_Analysis.git
+cd WildFire_Survival_Analysis
 pip install -r requirements.txt
-jupyter notebook wildfire_full_pipeline.ipynb
+jupyter notebook WildFire_Survival_Analysis.ipynb
 ```
 
 ## 📬 Contact
